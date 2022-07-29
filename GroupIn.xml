@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE group SYSTEM "group.dtd">
+<group>
+    <student firstname="Oleksiy" groupnumber="IT-91" lastname="Kulykov">
+        <subject mark="4" title="math"/>
+        <subject mark="3" title="PE"/>
+        <subject mark="5" title="Web tech"/>
+        <subject mark="4" title="Data structures"/>
+        <subject mark="5" title="Java dev"/>
+        <average>3.0</average>
+    </student>
+    <student firstname="Bogdan" groupnumber="FT001" lastname="Kushch">
+        <subject mark="3" title="math"/>
+        <subject mark="5" title="PE"/>
+        <subject mark="3" title="Web tech"/>
+        <subject mark="4" title="Data structures"/>
+        <subject mark="3" title="Java dev"/>
+        <average>5</average>
+    </student>
+    <student firstname="Egor" groupnumber="FT001" lastname="Sencha">
+        <subject mark="5" title="math"/>
+        <subject mark="5" title="PE"/>
+        <subject mark="4" title="Web tech"/>
+        <subject mark="5" title="Data structures"/>
+        <subject mark="3" title="Java dev"/>
+        <average>4.666666666666667</average>
+    </student>
+    <student firstname="Nikita" groupnumber="FT001" lastname="Denisenko">
+        <subject mark="4" title="math"/>
+        <subject mark="5" title="PE"/>
+        <subject mark="3" title="Web tech"/>
+        <subject mark="3" title="Data structures"/>
+        <subject mark="3" title="Java dev"/>
+        <average>1.666666666666667</average>
+    </student>
+    <student firstname="Vitaliy" groupnumber="FT001" lastname="Akymenko">
+        <subject mark="5" title="math"/>
+        <subject mark="5" title="PE"/>
+        <subject mark="4" title="Web tech"/>
+        <subject mark="5" title="Data structures"/>
+        <subject mark="4" title="Java dev"/>
+        <average>4.666666666666667</average>
+    </student>
+    <student firstname="Dmytro" groupnumber="FT001" lastname="Rybalka">
+        <subject mark="5" title="math"/>
+        <subject mark="5" title="PE"/>
+        <subject mark="5" title="Web tech"/>
+        <subject mark="5" title="Data structures"/>
+        <subject mark="5" title="Java dev"/>
+        <average>4.666666666666667</average>
+    </student>
+</group>
